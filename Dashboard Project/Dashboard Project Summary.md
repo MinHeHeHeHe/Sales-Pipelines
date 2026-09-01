@@ -187,7 +187,7 @@ Xây dựng cấu trúc dữ liệu tối ưu để hỗ trợ phân tích và t
 
 ### 📐 Kiến Trúc Star Schema
 
-![Alt text](Data model.png)
+![Alt text](Data%20model.png)
 
 ---
 
@@ -204,16 +204,16 @@ Trực quan hóa các KPI và insights thông qua interactive dashboard.
 ### 📊 Cấu Trúc Dashboard
 
 #### **Trang 1: Overview**
-![Alt text]("/Dashboard image/Overview.png")
+![Overview](../Dashboard%20image/Overview.png)
 
 #### **Trang 2: Pipeline Quality & Priority**
-![Alt text]("/Dashboard image/Pipeline Quality & Priority.png")
+![Pipeline Quality & Priority](../Dashboard%20image/Pipeline%20Quality%20%26%20Priority.png)
 
 #### **Trang 3: Sales Performance**
-![Alt text]("/Dashboard image/Sales Performance.png")
+![Sales Performance](../Dashboard%20image/Sales%20Performance.png)
 
 #### **Trang 4: Customer Insights**
-![Alt text]("/Dashboard image/Customer Insights.png")
+![Customer Insights](../Dashboard%20image/Customer%20Insights.png)
 
 *Dashboard được tạo chi tiết trong Power BI file (Sales Pipelines.pbix)*
 
