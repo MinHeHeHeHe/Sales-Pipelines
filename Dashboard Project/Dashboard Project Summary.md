@@ -187,7 +187,7 @@ Xây dựng cấu trúc dữ liệu tối ưu để hỗ trợ phân tích và t
 
 ### 📐 Kiến Trúc Star Schema
 
-![Alt text]("/Data model.png")
+![Alt text](Data model.png)
 
 ---
 
